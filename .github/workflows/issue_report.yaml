@@ -32,5 +32,5 @@ jobs:
       - name: 결과를 이슈로 등록
         uses: peter-evans/create-issue-from-file@v5
         with:
-          title: "🚀 사칙연산 자동 실행 결과"
+          title: "🚀 사칙연산 자동 실행 결과 "
           content-filepath: ./output.md
